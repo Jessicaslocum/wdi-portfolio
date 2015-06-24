@@ -1,0 +1,13 @@
+.container {
+
+}
+
+.jumbotron { 
+  color: #ffffff;
+  background-color: rgba(0, 42, 70, 1); 
+  width: 100%;
+  text-align: center;
+  border-style: solid;
+  border-color: #0b057f;
+}
+
